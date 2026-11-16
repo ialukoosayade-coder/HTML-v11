@@ -70,6 +70,7 @@
                 <li>Programació</li>
                 <li>Bases de Dades</li>
             </ul>
+            <a href="#" class="btn">Més informació</a>
         </section>
 
         <section class="card alert-box">
